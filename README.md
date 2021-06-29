@@ -1,6 +1,6 @@
 # React_Netflix
 
-#View demo: https://reactjs-netflix.herokuapp.com/
+# View demo: https://reactjs-netflix.herokuapp.com/
 
 <img src="https://github.com/vishnusiju/React_Netflix/blob/main/NF-R/nr1.png"><br>
 
